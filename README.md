@@ -1,6 +1,6 @@
-	## EasilyCameraLib
+## EasilyCameraLib
   
-  ### How to use
+### How to use
   
 ```
   allprojects {
